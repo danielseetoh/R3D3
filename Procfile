@@ -1,1 +1,1 @@
-web: gunicorn ezpz.wsgi --log-file -
+web: gunicorn SurbanaJurongServer.wsgi --log-file -
