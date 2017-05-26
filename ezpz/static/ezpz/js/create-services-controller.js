@@ -17,7 +17,7 @@
 				var data = {
 					category: $scope.servicesCategory,
 					name: $scope.servicesName,
-					price: $scope.servicesPrice.toString(),
+					price: $scope.servicesPrice,
 					likes: $scope.servicesLikes.toString(),
 					rating: $scope.servicesRating.toString(),
 				};
